@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\garci\\Documents\\ITSUR\\5 Semestre\\Taller de BD\\PracticaTransacciones_Productos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F80F33E5-3173-48D0-BEB5-1B695581EBE4}|PracticaTransacciones_Productos.csproj|C:\\Users\\garci\\Documents\\ITSUR\\5 Semestre\\Taller de BD\\PracticaTransacciones_Productos\\presentation\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80F33E5-3173-48D0-BEB5-1B695581EBE4}|PracticaTransacciones_Productos.csproj|solutionrelative:presentation\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80F33E5-3173-48D0-BEB5-1B695581EBE4}|PracticaTransacciones_Productos.csproj|c:\\users\\garci\\documents\\itsur\\5 semestre\\taller de bd\\practicatransacciones_productos\\data\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80F33E5-3173-48D0-BEB5-1B695581EBE4}|PracticaTransacciones_Productos.csproj|solutionrelative:data\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80F33E5-3173-48D0-BEB5-1B695581EBE4}|PracticaTransacciones_Productos.csproj|C:\\Users\\garci\\Documents\\ITSUR\\5 Semestre\\Taller de BD\\PracticaTransacciones_Productos\\presentation\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F80F33E5-3173-48D0-BEB5-1B695581EBE4}|PracticaTransacciones_Productos.csproj|solutionrelative:presentation\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80F33E5-3173-48D0-BEB5-1B695581EBE4}|PracticaTransacciones_Productos.csproj|C:\\Users\\garci\\Documents\\ITSUR\\5 Semestre\\Taller de BD\\PracticaTransacciones_Productos\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80F33E5-3173-48D0-BEB5-1B695581EBE4}|PracticaTransacciones_Productos.csproj|solutionrelative:data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SQL.cs",
+              "DocumentMoniker": "C:\\Users\\garci\\Documents\\ITSUR\\5 Semestre\\Taller de BD\\PracticaTransacciones_Productos\\Data\\SQL.cs",
+              "RelativeDocumentMoniker": "Data\\SQL.cs",
+              "ToolTip": "C:\\Users\\garci\\Documents\\ITSUR\\5 Semestre\\Taller de BD\\PracticaTransacciones_Productos\\Data\\SQL.cs",
+              "RelativeToolTip": "Data\\SQL.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAD4v1IAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T16:38:24.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\garci\\Documents\\ITSUR\\5 Semestre\\Taller de BD\\PracticaTransacciones_Productos\\Data\\Product.cs",
+              "RelativeDocumentMoniker": "Data\\Product.cs",
+              "ToolTip": "C:\\Users\\garci\\Documents\\ITSUR\\5 Semestre\\Taller de BD\\PracticaTransacciones_Productos\\Data\\Product.cs",
+              "RelativeToolTip": "Data\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T16:32:27.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMenu.cs",
+              "DocumentMoniker": "C:\\Users\\garci\\Documents\\ITSUR\\5 Semestre\\Taller de BD\\PracticaTransacciones_Productos\\Presentation\\frmMenu.cs",
+              "RelativeDocumentMoniker": "Presentation\\frmMenu.cs",
+              "ToolTip": "C:\\Users\\garci\\Documents\\ITSUR\\5 Semestre\\Taller de BD\\PracticaTransacciones_Productos\\Presentation\\frmMenu.cs",
+              "RelativeToolTip": "Presentation\\frmMenu.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwCgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T16:28:10.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\garci\\Documents\\ITSUR\\5 Semestre\\Taller de BD\\PracticaTransacciones_Productos\\Presentation\\frmMenu.cs",
+              "RelativeDocumentMoniker": "Presentation\\frmMenu.cs",
+              "ToolTip": "C:\\Users\\garci\\Documents\\ITSUR\\5 Semestre\\Taller de BD\\PracticaTransacciones_Productos\\Presentation\\frmMenu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentation\\frmMenu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T16:25:55.147Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
